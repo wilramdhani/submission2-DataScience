@@ -83,3 +83,4 @@ Business dashboard yang telah dibuat menggunakan Looker Studio dengan dashboard 
 
 1. Menyiapkan data: Pastikan dataset yang diperlukan berada di folder yang sesuai, atau tambahkan data baru yang ingin Anda prediksi.
 2. Running Model: Untuk menjalankan model prediksi, gunakan script Python yang telah disediakan. Contoh untuk melakukan prediksi dengan model Neural Network:
+3. Anda dapat mengakses aplikasi dengan klik pada [Link Streamlit](https://submission2-datascience-wilramdhani.streamlit.app/)
